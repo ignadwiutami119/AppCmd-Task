@@ -1,0 +1,14 @@
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\bin\Debug\netcoreapp3.0\program10.exe
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\bin\Debug\netcoreapp3.0\program10.deps.json
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\bin\Debug\netcoreapp3.0\program10.runtimeconfig.json
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\bin\Debug\netcoreapp3.0\program10.runtimeconfig.dev.json
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\bin\Debug\netcoreapp3.0\program10.dll
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\bin\Debug\netcoreapp3.0\program10.pdb
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\bin\Debug\netcoreapp3.0\McMaster.Extensions.CommandLineUtils.dll
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\obj\Debug\netcoreapp3.0\program10.csprojAssemblyReference.cache
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\obj\Debug\netcoreapp3.0\program10.AssemblyInfoInputs.cache
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\obj\Debug\netcoreapp3.0\program10.AssemblyInfo.cs
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\obj\Debug\netcoreapp3.0\program10.csproj.CopyComplete
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\obj\Debug\netcoreapp3.0\program10.dll
+D:\TRAININGC#\JANUARI\23Januari APP CMD\Task\program10\obj\Debug\netcoreapp3.0\program10.pdb
