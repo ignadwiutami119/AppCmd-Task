@@ -15,10 +15,11 @@ namespace program10 {
                 app.OnExecute (() => {
                     int counter=1;
                     int number = 0;
+                    string input;
                     for(int i =0;i<counter;i++) {
                         Console.Write("insert "+counter+"st number : ");
-                        string input = Console.ReadLine();
-                        if(input!= null) {
+                        input = Console.ReadLine();
+                        if(input!= string.Empty) {
                             number += Convert.ToInt32(input);
                             counter++;
                         }
