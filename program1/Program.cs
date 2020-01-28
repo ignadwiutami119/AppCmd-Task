@@ -34,7 +34,7 @@ namespace Task {
                     var word = input.Value;
                     string str = "";
                     StringBuilder final = new StringBuilder ();
-                    if (word == null) {
+                    if (word == String.Empty) {
                         Console.WriteLine ("cannot process");
                     } else {
                         for (int i = 0; i < word.Length; i++) {
